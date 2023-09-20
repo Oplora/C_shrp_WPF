@@ -1,0 +1,15 @@
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\bin\Debug\net6.0\Custom_MKL_Console.exe
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\bin\Debug\net6.0\Custom_MKL_Console.deps.json
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\bin\Debug\net6.0\Custom_MKL_Console.runtimeconfig.json
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\bin\Debug\net6.0\Custom_MKL_Console.dll
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\bin\Debug\net6.0\Custom_MKL_Console.pdb
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.csproj.AssemblyReference.cache
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.AssemblyInfoInputs.cache
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.AssemblyInfo.cs
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.csproj.CoreCompileInputs.cache
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.dll
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\refint\Custom_MKL_Console.dll
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.pdb
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\Custom_MKL_Console.genruntimeconfig.cache
+C:\Users\tsybr\OneDrive\Lab2\Custom_MKL_Console\obj\Debug\net6.0\ref\Custom_MKL_Console.dll
