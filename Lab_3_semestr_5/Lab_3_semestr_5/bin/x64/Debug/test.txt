@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<VMTime xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <counts>10000</counts>
+  <WML_EP>0.0011</WML_EP>
+  <VML_HA>0.4585</VML_HA>
+</VMTime><?xml version="1.0"?>
+<VMTime xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <counts>1000000</counts>
+  <WML_EP>0.00030000000000000003</WML_EP>
+  <VML_HA>0.0013000000000000002</VML_HA>
+</VMTime><?xml version="1.0"?>
+<VMTime xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <counts>10000</counts>
+  <WML_EP>0.00030000000000000003</WML_EP>
+  <VML_HA>0.0016</VML_HA>
+</VMTime><?xml version="1.0"?>
+<VMTime xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <counts>100</counts>
+  <WML_EP>0.0002</WML_EP>
+  <VML_HA>0.0028</VML_HA>
+</VMTime><?xml version="1.0"?>
+<VMTime xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <counts>10</counts>
+  <WML_EP>0.0002</WML_EP>
+  <VML_HA>0.0002</VML_HA>
+</VMTime><?xml version="1.0"?>
+<VMAccuracy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <beginning>0</beginning>
+  <ending>1</ending>
+  <counts>10000</counts>
+  <max_abs>1</max_abs>
+  <max_HA>0</max_HA>
+  <max_EP>1</max_EP>
+  <max_X_axis>0</max_X_axis>
+</VMAccuracy><?xml version="1.0"?>
+<VMAccuracy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <beginning>0</beginning>
+  <ending>3.1415926535897931</ending>
+  <counts>1000000</counts>
+  <max_abs>1</max_abs>
+  <max_HA>0</max_HA>
+  <max_EP>-1</max_EP>
+  <max_X_axis>3.1415926535897931</max_X_axis>
+</VMAccuracy><?xml version="1.0"?>
+<VMAccuracy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <beginning>-3.1415926535897931</beginning>
+  <ending>3.1415926535897931</ending>
+  <counts>10000</counts>
+  <max_abs>1</max_abs>
+  <max_HA>0</max_HA>
+  <max_EP>-1</max_EP>
+  <max_X_axis>3.1415926535897931</max_X_axis>
+</VMAccuracy><?xml version="1.0"?>
+<VMAccuracy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <beginning>-1</beginning>
+  <ending>0</ending>
+  <counts>100</counts>
+  <max_abs>1</max_abs>
+  <max_HA>0</max_HA>
+  <max_EP>1</max_EP>
+  <max_X_axis>0</max_X_axis>
+</VMAccuracy><?xml version="1.0"?>
+<VMAccuracy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <beginning>-1</beginning>
+  <ending>1</ending>
+  <counts>10</counts>
+  <max_abs>0.993833508538892</max_abs>
+  <max_HA>0</max_HA>
+  <max_EP>0.993833508538892</max_EP>
+  <max_X_axis>0.11111111111111116</max_X_axis>
+</VMAccuracy>

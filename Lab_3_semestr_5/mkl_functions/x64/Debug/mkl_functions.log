@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  Source.cpp
+     Создается библиотека C:\Users\oplor\source\repos\Lab_3_semestr_5\Build\x64\Debug\mkl_functions.lib и объект C:\Users\oplor\source\repos\Lab_3_semestr_5\Build\x64\Debug\mkl_functions.exp
+  mkl_functions.vcxproj -> C:\Users\oplor\source\repos\Lab_3_semestr_5\Build\x64\Debug\mkl_functions.dll

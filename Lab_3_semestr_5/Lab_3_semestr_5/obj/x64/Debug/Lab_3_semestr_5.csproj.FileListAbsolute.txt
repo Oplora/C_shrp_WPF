@@ -1,0 +1,7 @@
+C:\Users\oplor\source\repos\Lab_3_semestr_5\Lab_3_semestr_5\bin\x64\Debug\Lab_3_semestr_5.exe.config
+C:\Users\oplor\source\repos\Lab_3_semestr_5\Lab_3_semestr_5\bin\x64\Debug\Lab_3_semestr_5.exe
+C:\Users\oplor\source\repos\Lab_3_semestr_5\Lab_3_semestr_5\bin\x64\Debug\Lab_3_semestr_5.pdb
+C:\Users\oplor\source\repos\Lab_3_semestr_5\Lab_3_semestr_5\obj\x64\Debug\Lab_3_semestr_5.csproj.CoreCompileInputs.cache
+C:\Users\oplor\source\repos\Lab_3_semestr_5\Lab_3_semestr_5\obj\x64\Debug\Lab_3_semestr_5.exe
+C:\Users\oplor\source\repos\Lab_3_semestr_5\Lab_3_semestr_5\obj\x64\Debug\Lab_3_semestr_5.pdb
+C:\Users\oplor\source\repos\Lab_3_semestr_5\Lab_3_semestr_5\obj\x64\Debug\Lab_3_semestr_5.csproj.AssemblyReference.cache
